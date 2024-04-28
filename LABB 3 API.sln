@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LABB 3 API", "LABB 3 API.csproj", "{4724FB8F-2444-410B-97AE-5DD26473CCEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LABB 3 API Models", "..\LABB 3 API Models\LABB 3 API Models.csproj", "{FE27435D-F5BC-4F68-9DA5-65383BF6FCE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4724FB8F-2444-410B-97AE-5DD26473CCEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4724FB8F-2444-410B-97AE-5DD26473CCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4724FB8F-2444-410B-97AE-5DD26473CCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4724FB8F-2444-410B-97AE-5DD26473CCEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE27435D-F5BC-4F68-9DA5-65383BF6FCE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE27435D-F5BC-4F68-9DA5-65383BF6FCE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE27435D-F5BC-4F68-9DA5-65383BF6FCE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE27435D-F5BC-4F68-9DA5-65383BF6FCE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BB839FE-5731-4884-B723-DE396548CE51}
+	EndGlobalSection
+EndGlobal
